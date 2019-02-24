@@ -1,0 +1,8 @@
+.idea/
+my-app/node_modules/
+my-app/pics/
+api_server/node_modules/
+rtmp_server/node_modules/
+my-app/package-lock.json
+api_server/package-lock.json
+rtmp_server/package-lock.json
